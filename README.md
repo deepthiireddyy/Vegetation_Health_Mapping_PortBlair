@@ -47,7 +47,7 @@ The workflow of the study involves the following steps:
 - The map effectively highlights areas under ecological stress and zones of thriving vegetation.  
 
 *Example visualization:*  
-![Port Blair Vegetation Health Map](images/PortBlair_VegetationHealthMap.png)
+![Port Blair Vegetation Health Map](PortBlair_VegetationHealthMap.jpg)
 
 ---
 
